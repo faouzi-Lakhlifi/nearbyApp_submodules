@@ -1,3 +1,6 @@
 [submodule "API-SpringBoot.git"]
 	path = API-SpringBoot.git
 	url = https://github.com/faouzi-Lakhlifi/nearbyShops-API-server-springBoot.git
+[submodule "Client-SPA-React"]
+	path = Client-SPA-React
+	url = https://github.com/faouzi-Lakhlifi/nearbyShops-Client-React.git
