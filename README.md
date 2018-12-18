@@ -27,8 +27,8 @@ Technologies :
 ### Run the App
 #### 1 - Application Data
 
-The challenge provided a MongoDB dump file with 342 shops, that I extracted to jason format and then inserted into MySQL, the sql format of the data is provided in the api sub-module under the name db3.sql.
-Create a mysql db called "db-spring-demo" with a "utf8" collation to support key indexes big types (you can change the name in application.properties file in the the api code)
+The challenge provided a MongoDB dump file with 342 shops, that I extracted to jason format and then inserted into MySQL, the sql format of the data is provided in the api sub-module under the name **db3.sql**.
+Create a mysql db called "**db-spring-demo**" with a "**utf8**" collation to support key indexes big types (you can change the name in application.properties file in the the api code)
 
 #### 2 - Spring Boot API
 
@@ -36,7 +36,7 @@ You can deploy Spring Boot API with Maven Or with an IDE.
 
 I used IntelliJ IDEA, but other IDEs like STS or Eclipse are fine as well. 
 
-1. Open Projetc (API-SpringBoot) in your IDE
+1. Open Projetc "**API-SpringBoot**" in your IDE
 2. Import maven dependencies/rebuild with maven 
 3. Run (this will create the tables in the database)
 4. Import shops/run query  from "**db3.sql**" form api folder
