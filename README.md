@@ -20,7 +20,7 @@ The coding challenge is about implementing an app that lists shops nearby.
 ## Getting Started
 Technologies :
 
-- Backend : Java - Spring Boot
+- Backend : Java - Spring Boot - RESTfull API with JWT based authentication.
 - Frontend : JavaScript - React 16
 - Database : MySQL
 
